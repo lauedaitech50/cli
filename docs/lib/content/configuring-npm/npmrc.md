@@ -1,4 +1,7 @@
----
+--{
+  "name": "workspace-example",
+  "workspaces": ["./packages/*"]
+}-
 title: npmrc
 section: 5
 description: The npm config files
